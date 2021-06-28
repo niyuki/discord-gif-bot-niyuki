@@ -11,7 +11,7 @@ NOT MY FAULT IF BAD TRANSLATION</p>
 Install the code and fill `setting.json`so your bot get's ready..
 
 I added a feature command called setup(owner only). It's supposed to create all needed roles and emojis for the spaces below!
-![.setup]('https://cdn.discordapp.com/attachments/858653613702119465/859154083855073290/unknown.png')
+![setup](https://cdn.discordapp.com/attachments/858653613702119465/859154083855073290/unknown.png)
 
 Additionally I will explain some more about settings section
 ```
