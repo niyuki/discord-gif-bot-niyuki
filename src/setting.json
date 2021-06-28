@@ -1,0 +1,72 @@
+{
+  "panel": {
+    "guildid": "GIF_GUILD_ID",
+    "token": "BOT_TOKEN",
+    "developers": ["730448609790787585","YOUR_ID"],
+    "prefix": ".", 
+    "embedFooter": "🔥 Niyuki On Fire 🔥", 
+    "embedColor": "f6f6f6", 
+    "mongoPath": "MONGOURL",
+    "language": "tr",
+    "swearings": ["fuck", "nigger", "nigga","motherfucker"]
+  },
+  "channellist": {
+    "chat": "CHAT_CHANNEL_ID", 
+    "invitelog": "INVITELOG_CHANNEL_ID",
+    "botcommands": "BOTCOMMANDS_CHANNEL_ID", 
+
+    "sharecategory": ["woman_category_id","man_category_id", "..."], 
+    "giflog": "SHARED_GIF_LOG_CHANNELID",
+
+    "feedbacklog": "FEEDBACK_CHANNEL_ID",
+    "suggestionlog": "SUGGESTION_CHANNEL_ID",
+
+    "randomGifLog": "RANDOMGIF_CHANNEL_ID",
+    "randomPpLog": "RANDOMPP_CHANNEL_ID",
+
+    "commandLog": "COMMANDLOG_CHANNEL_ID",
+    "voiceChannel": "VOICECHANNEL_ID"
+  },
+  "rolelist": {
+    "Sharer": "SHARER_ID",
+    "BotRole": "BOT_ROLE_ID",
+
+    "Staff": ["STAFF_ROLE_1", "STAFF_ROLE_2"],
+    "Moderator": ["MOD_ROLE_1", "MOD_ROLE_2"],
+    "Admin": ["ADMIN_ROLE_1", "ADMIN_ROLE_2"],
+
+
+    "VipColor1": "VIP_ROLE_COLOR_1",
+    "VipColor2": "",
+    "VipColor3": "",
+    "VipColor4": "",
+    "VipColor5": "",
+    "VipColor6": "",
+    "VipColor7": "",
+    "VipColor8": "",
+    "VipColor9": "",
+    "VipColor10": "",
+
+    "ColorRole1": "",
+    "ColorRole2": "",
+    "ColorRole3": "",
+    "ColorRole4": "",
+    "ColorRole5": ""
+  },
+  "fun": {
+    "jobs": ["Developer", "Architect", "Host/Hostess", "Bus Driver", "Cook", "Engineer", "Doctor", "Lawyer", "News Reporter", "Writer", "Actor", "Teacher", "Librarian", "Pilot"],
+    "sharereward": 50,
+    "emoji": "💖",
+    "tickemoji": "✅",
+    "crossemoji": "❌",
+    "coinsemoji": "💸",
+
+    "headsemoji": "",
+    "tailsemoji": "",
+    "coinspinemoji": "",
+
+    "greendiamondemoji": "",
+    "reddiamondemoji": "",
+    "blackdiamondemoji": ""
+  }
+}
