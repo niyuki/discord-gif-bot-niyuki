@@ -52,8 +52,7 @@ client.on('message', async message => {
 const mongoose = require('mongoose');
 mongoose.connect(config.panel.mongoPath, {
     useNewUrlParser: true,
-    useUnifiedTopology: true,
-    useUnifiedTopology: false
+    useUnifiedTopology: true
 }).catch (error => {
     console.log('I was not able to connect to MongoDB! Please check for any errors.')
     console.log(`Mongo Error: ${error}`)
